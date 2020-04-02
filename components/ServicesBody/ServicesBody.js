@@ -47,13 +47,14 @@ class ServicesBody extends Component {
                 </div>
               </div>
               <div class="col-lg-7 service-text">
-                <h1>We offer top quality project <span>services</span></h1>
-                <h2>01.Super-fast support.</h2>
-                <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. </p>
+                <h1>Ofrecemos proyectos de buena calidad <span>Servicios</span></h1>
+                <h2>01.Soporte rápido.</h2>
+                <p>Nos caracterizamos por brindar soporte eficaz y rapido a sus sistemas para que pueda trabajar en ella lo mas pronto posible y no interrumpir su trabajo </p>
                 <ol>
-                  <li>02.Detailed documentation. </li>
-                  <li>03.Clean code.</li>
-                  <li>04.Great themes.</li>
+                  <h2>02.Documentación detallada. </h2>
+				  <p>Ofrecemos documentacion del sistema para que el personal de IT puedan manejar errores cuando se presenten y tener la posibilidad de saber la funcion de cada apartado del sistema </p>
+                  <h2>03.Visualización Gráfica entendible.</h2>
+				  <p>Para poder ser mas entendible para las peronas se implementara selecciones graficas para que no e cueste a las personas y se amas interesante el usarlo </p>
                 </ol>
               </div>
             </div>

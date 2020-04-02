@@ -68,7 +68,7 @@ class Body extends Component {
                       <img src="img/icon/dark/1.png" alt="" />>
 							</div>
                   </div>
-                  <h3>Plans and Projects</h3>
+                  <h3>Planes y Proyectos</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
@@ -80,7 +80,7 @@ class Body extends Component {
                       <img src="img/icon/dark/2.png" alt="" />
                     </div>
                   </div>
-                  <h3>Conceptual Architecture</h3>
+                  <h3>Arquitectura conceptual</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
@@ -92,7 +92,7 @@ class Body extends Component {
                       <img src="img/icon/dark/3.png" alt="" />
                     </div>
                   </div>
-                  <h3>Apartment Buildings</h3>
+                  <h3>Empresas con las que trabajamos</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
