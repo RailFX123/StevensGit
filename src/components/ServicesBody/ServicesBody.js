@@ -64,7 +64,7 @@ class ServicesBody extends Component {
         <section className="service-section spad">
 		<div className="container">
 			<div className="section-title">
-				<h1>Services</h1>
+				<h1>Servicios</h1>
 			</div>
 			<div className="row">
 				<div className="col-lg-4 col-md-6">
@@ -75,8 +75,8 @@ class ServicesBody extends Component {
                 
 							</div>
 						</div>
-						<h3>Plans and Projects</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Consultorías en TI</h3>
+						<p>Diseño de Arquitectura de aplicaciones, servidores y bases de datos, procesos de negocio que ayuden a la definición de requerimientos para TI.</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>
@@ -87,8 +87,8 @@ class ServicesBody extends Component {
               <img src={require("../../generalimg/icon/dark/2.png")} alt=""/>
 							</div>
 						</div>
-						<h3>Conceptual Architecture</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Administración de proyectos</h3>
+						<p>Gestión de proyectos por medio de Project Managers que coordinen las diferentes áreas interdisciplinarias para el logro de objetivos en tiempo, costo y calidad.</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>
@@ -99,8 +99,8 @@ class ServicesBody extends Component {
               <img src={require("../../generalimg/icon/dark/3.png")} alt=""/>
 							</div>
 						</div>
-						<h3>Apartment Buildings</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Outsourcing de Aplicaciones</h3>
+						<p>Se desarrolla mediante un acuerdo de Colaboración donde se delega la gestión, el mantenimiento y la mejora de aplicaciones, cubriendo el ciclo de vida completo del software.</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>
@@ -111,8 +111,8 @@ class ServicesBody extends Component {
               <img src={require("../../generalimg/icon/dark/4.png")} alt=""/>
 							</div>
 						</div>
-						<h3>Skyscrapers Buildings</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Desarrollo a la medida</h3>
+						<p>El Cliente contrata un servicio puntual, con alcance, plazo y costos previamente definidos.</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>
@@ -123,8 +123,8 @@ class ServicesBody extends Component {
               <img src={require("../../generalimg/icon/dark/5.png")} alt=""/>
 							</div>
 						</div>
-						<h3>Documentation</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Diagnostico de Aplicaciones</h3>
+						<p>Revisar y detectar errores en el código para optimizar el consumo de los recursos Soporte Técnico .</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>
@@ -135,8 +135,8 @@ class ServicesBody extends Component {
               <img src={require("../../generalimg/icon/dark/6.png")} alt=""/>
 							</div>
 						</div>
-						<h3>Restauration Projects</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+						<h3>Capacitaciones</h3>
+						<p>Ofrecer a nuestros clientes capacitaciones técnicas, transferencia de conocimientos.</p>
 						<a href="#" className="readmore">READ MORE</a>
 					</div>
 				</div>

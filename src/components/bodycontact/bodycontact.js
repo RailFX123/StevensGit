@@ -18,13 +18,13 @@ class bodycontact extends Component {
         <section className="page-section pt100">
           <div className="container pb100">
             <div className="section-title pt-5">
-              <h1>Get in touch</h1>
+              <h1>Contactenos</h1>
             </div>
             <div className="row">
               <div className="col-lg-3 contact-info mb-5 mb-lg-0">
-                <p>Address: 1481 Creekside Lane Avila Beach, CA 93424 </p>
-                <p>Phone: +53 345 7953 32453</p>
-                <p>Email: yourmail@gmail.com</p>
+                <p>Dirección: 3ra. Calle 18-48,Jutiapa. </p>
+                <p>Teléfono: +502 54723883</p>
+                <p>Email: nuestraempresa@gmail.com</p>
                 <div className="cf-social">
                   <a href="#"><i className="fa fa-google-plus"></i></a>
                   <a href="#"><i className="fa fa-pinterest"></i></a>
@@ -34,9 +34,9 @@ class bodycontact extends Component {
               </div>
               <div className="col-lg-9">
                 <form className="contact-form">
-                  <input type="text" placeholder="Enter your name" />
-                  <input type="text" placeholder="Enter your email address" />
-                  <textarea placeholder="Message ..."></textarea>
+                  <input type="text" placeholder="Ingrese su numbre" />
+                  <input type="text" placeholder="Ingrese su Correo Electronico" />
+                  <textarea placeholder="Mensaje ..."></textarea>
                   <button className="site-btn sb-dark">Send</button>
                 </form>
               </div>
