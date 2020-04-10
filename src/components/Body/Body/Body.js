@@ -44,9 +44,9 @@ class Body extends Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-7 intro-text mb-5 mb-lg-0">
-                <h2 className="sp-title">We are a creative Architecture<span>Studio</span></h2>
-                <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. Curabitur finibus dolor vel lectus pretium interdum a eget ante. Morbi rhoncus feugiat imperdiet. Curabitur non maximus leo. Nulla in ipsum sed magna egestas bibendum. Integer in sem sagittis, commodo mi sit amet, commodo nibh. Suspendisse potenti. Aliquam erat volutpat. </p>
-                <a href="#" className="site-btn sb-dark">See Project</a>
+                <h2 className="sp-title">Nosotros somos una arquitectura creativa<span>Archivado</span></h2>
+                <p>Nos caracterizamos por ser una empresa emprendedora, creadora que velamos por la necesidad de las empresas por la importancia de sus documentos y nos preocupamos porque usted tennga todo registrado virtualmente para no tener una perdida de documentso importantes y legales que usted pueda utilizar. </p>
+                <a href="#" className="site-btn sb-dark">Vea mas de nosotros</a>
               </div>
               <div className="col-lg-5 pt-4">
                 <img src="../../../generalimg/intro.png" alt="" />>
@@ -58,7 +58,7 @@ class Body extends Component {
         <section className="service-section spad">
           <div className="container">
             <div className="section-title">
-              <h2>Services</h2>
+              <h2>Servicios</h2>
             </div>
             <div className="row">
               <div className="col-lg-4 col-md-6">
@@ -68,8 +68,8 @@ class Body extends Component {
                       <img src="img/icon/dark/1.png" alt="" />>
 							</div>
                   </div>
-                  <h3>Planes y Proyectos</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Consultorías en TI</h3>
+                  <p>Diseño de Arquitectura de aplicaciones, servidores y bases de datos, procesos de negocio que ayuden a la definición de requerimientos para TI.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -80,8 +80,8 @@ class Body extends Component {
                       <img src="img/icon/dark/2.png" alt="" />
                     </div>
                   </div>
-                  <h3>Arquitectura conceptual</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Administración de proyectos</h3>
+                  <p>Gestión de proyectos por medio de Project Managers que coordinen las diferentes áreas interdisciplinarias para el logro de objetivos en tiempo, costo y calidad.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -92,8 +92,8 @@ class Body extends Component {
                       <img src="img/icon/dark/3.png" alt="" />
                     </div>
                   </div>
-                  <h3>Empresas con las que trabajamos</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Outsourcing de Aplicaciones</h3>
+                  <p>Se desarrolla mediante un acuerdo de Colaboración donde se delega la gestión, el mantenimiento y la mejora de aplicaciones, cubriendo el ciclo de vida completo del software.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -104,8 +104,8 @@ class Body extends Component {
                       <img src="img/icon/dark/4.png" alt="" />
                     </div>
                   </div>
-                  <h3>Skyscrapers Buildings</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Desarrollo a la medida</h3>
+                  <p>El Cliente contrata un servicio puntual, con alcance, plazo y costos previamente definidos.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -116,8 +116,8 @@ class Body extends Component {
                       <img src="img/icon/dark/5.png" alt="" />
                     </div>
                   </div>
-                  <h3>Documentation</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Diagnostico de Aplicaciones</h3>
+                  <p>Revisar y detectar errores en el código para optimizar el consumo de los recursos Soporte Técnico.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -128,8 +128,8 @@ class Body extends Component {
                       <img src="img/icon/dark/6.png" alt="" />
                     </div>
                   </div>
-                  <h3>Restauration Projects</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget lorem tincidunt.</p>
+                  <h3>Capacitaciones</h3>
+                  <p>Ofrecer a nuestros clientes capacitaciones técnicas, transferencia de conocimientos.</p>
                   <a href="#" className="readmore">READ MORE</a>
                 </div>
               </div>
@@ -142,8 +142,8 @@ class Body extends Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-7 pl-lg-0 offset-lg-5 cta-content">
-                <h2 className="sp-title">Dare to dream of a modern <span>home</span></h2>
-                <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. Curabitur finibus dolor vel lectus pretium interdum a eget ante. </p>
+                <h2 className="sp-title">Atevete a actualizarte en la documentación de <span>archivos</span></h2>
+                <p>Nada como simplificar la archivacion de los documentos de tu empresa para que sea mejor el manejo y evitar la fatiga de la busqueda y perdida de estos documentos. </p>
                 <div className="cta-icons">
                   <div className="cta-img-icon">
                     <img src="../../../generalimg/icon/light/1.png" alt="" />
@@ -166,7 +166,7 @@ class Body extends Component {
               <div className="col-lg-3 col-md-6">
                 <div className="milestone">
                   <h2>14</h2>
-                  <p>Years of Experience</p>
+                  <p>Años de Experiencia</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6">

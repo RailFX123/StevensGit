@@ -18,23 +18,23 @@ class BodyAboutUs extends Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-7 pl-lg-0 offset-lg-5 cta-content">
-                <h1>Clients <span>testimonials</span></h1>
-                <div className="qut">â€œ</div>
+                <h1>Clients <span>Testimonios</span></h1>
+                <div className="qut">reseñas de nuestros clientes</div>
                 <div className="testimonials-slider" id="test-slider">
                   <div className="ts-item">
-                    <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. Curabitur finibus dolor vel lectus pretium interdum a eget ante. </p>
+                    <p>Me parece muy eficaz y util para el uso de nuestra empresa para facilitar los sevicios y la busqueda de archivos. </p>
                     <h4>Maria Westminster</h4>
-                    <span>Client</span>
+                    <span>Cliente</span>
                   </div>
                   <div className="ts-item">
-                    <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. Curabitur finibus dolor vel lectus pretium interdum a eget ante. </p>
+                    <p>en el area de archivo y sercretaria nos ayudo mucho porque a las secretarias se les hace mas faccil tener un registro de los archivos y poder buscarlos </p>
                     <h4>Maria Westminster</h4>
-                    <span>Client</span>
+                    <span>Cliente</span>
                   </div>
                   <div className="ts-item">
-                    <p>Pellentesque lorem dolor, malesuada eget tortor vitae, tristique lacinia lectus. Pellentesque sed accumsan risus, id aliquam nulla. Integer lorem risus, feugiat at mauris malesuada, accumsan pellentesque ipsum. Nunc dapibus, libero ut pulvinar accumsan, tortor nisl iaculis ligula. Curabitur finibus dolor vel lectus pretium interdum a eget ante. </p>
+                    <p>En nuestro caso nos ayudo a mejorar nuestro trabajo porque muchas veces los archivos fisicos se deterioraban y a la hora de utilizarlos no teniamos ese registro porque por ya no ser legible ya no era utilizable </p>
                     <h4>Maria Westminster</h4>
-                    <span>Client</span>
+                    <span>Cliente</span>
                   </div>
                 </div>
                 <div className="slide-num-holder test-slider" id="snh-2"></div>
@@ -46,14 +46,14 @@ class BodyAboutUs extends Component {
         <section className="team-section spad">
           <div className="container">
             <div className="section-title mb100">
-              <h1>The Team</h1>
+              <h1>Nuestro Grupo</h1>
             </div>
             <div className="row">
               <div className="col-lg-4 col-md-6">
                 <div className="team-member">
                   <img src={require('../../generalimg/team/1.jpg')} alt="" />>
 						<div className="member-info">
-                    <h2>Jack Smith</h2>
+                    <h2>David Natareno </h2>
                     <p>Senior Architect</p>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ class BodyAboutUs extends Component {
                 <div className="team-member">
                   <img src={require('../../generalimg/team/2.jpg')} alt="" />>
 						<div className="member-info">
-                    <h2>Lili Jameson</h2>
+                    <h2>Steven Colocho</h2>
                     <p>Senior Architect</p>
                   </div>
                 </div>
@@ -72,6 +72,42 @@ class BodyAboutUs extends Component {
                   <img src={require('../../generalimg/team/3.jpg')} alt="" />>
 						<div className="member-info">
                     <h2>Michael Dow</h2>
+                    <p>Senior Architect</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div className="team-member">
+                  <img src={require('../../generalimg/team/2.jpg')} alt="" />>
+						<div className="member-info">
+                    <h2>Erck Fuentes</h2>
+                    <p>Senior Architect</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div className="team-member">
+                  <img src={require('../../generalimg/team/2.jpg')} alt="" />>
+						<div className="member-info">
+                    <h2>Jorge Gudiel</h2>
+                    <p>Senior Architect</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div className="team-member">
+                  <img src={require('../../generalimg/team/2.jpg')} alt="" />>
+						<div className="member-info">
+                    <h2>Oscar Ortiz</h2>
+                    <p>Senior Architect</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div className="team-member">
+                  <img src={require('../../generalimg/team/2.jpg')} alt="" />>
+						<div className="member-info">
+                    <h2>Andrea Melgar</h2>
                     <p>Senior Architect</p>
                   </div>
                 </div>
