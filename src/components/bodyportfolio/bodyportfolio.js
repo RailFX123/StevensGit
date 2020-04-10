@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './bodyportfolio.css';
+import Footer from '../../components/footer/footer';
 
 
 class bodyportfolio extends Component {
@@ -13,18 +14,6 @@ class bodyportfolio extends Component {
           <div className="centrado"><h2 className="textone">Portafolio</h2></div>
         </section>
 
-        <div className="page-section spad">
-          <div className="container">
-            <ul className="portfolio-filter">
-              <li className="filter" data-filter="*">All</li>
-              <li className="filter" data-filter=".photo">Photography</li>
-              <li className="filter" data-filter=".design">Design</li>
-              <li className="filter" data-filter=".iden">Identity</li>
-              <li className="filter" data-filter=".corp">Corporate</li>
-              <li className="filter" data-filter=".uxui">UI/UX</li>
-            </ul>
-          </div>
-        </div>
 
         <div className="container">
             <div className="gallery">
@@ -48,6 +37,7 @@ class bodyportfolio extends Component {
                 </figure>
             </div>
         </div>
+        <Footer></Footer>
 
       </div>
     );

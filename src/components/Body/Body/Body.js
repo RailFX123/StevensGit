@@ -65,7 +65,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/1.png" alt="" />>
+                      <img src={require('../../../generalimg/icon/dark/1.png')} alt="" />>
 							</div>
                   </div>
                   <h3>Consultorías en TI</h3>
@@ -77,7 +77,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/2.png" alt="" />
+                      <img src={require('../../../generalimg/icon/dark/2.png')}alt="" />
                     </div>
                   </div>
                   <h3>Administración de proyectos</h3>
@@ -89,7 +89,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/3.png" alt="" />
+                      <img src={require('../../../generalimg/icon/dark/3.png')} alt="" />
                     </div>
                   </div>
                   <h3>Outsourcing de Aplicaciones</h3>
@@ -101,7 +101,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/4.png" alt="" />
+                      <img src={require('../../../generalimg/icon/dark/4.png')} alt="" />
                     </div>
                   </div>
                   <h3>Desarrollo a la medida</h3>
@@ -113,7 +113,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/5.png" alt="" />
+                      <img src={require('../../../generalimg/icon/dark/5.png')} alt="" />
                     </div>
                   </div>
                   <h3>Diagnostico de Aplicaciones</h3>
@@ -125,7 +125,7 @@ class Body extends Component {
                 <div className="service-box">
                   <div className="sb-icon">
                     <div className="sb-img-icon">
-                      <img src="img/icon/dark/6.png" alt="" />
+                      <img src={require('../../../generalimg/icon/dark/6.png')} alt="" />
                     </div>
                   </div>
                   <h3>Capacitaciones</h3>

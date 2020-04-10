@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './portfolioscreens.css';
 import Header from '../../components/Header/Header/Header';
 import BodyPortfolio from '../../components/bodyportfolio/bodyportfolio'
+import Footer from '../../components/footer/footer';
 
 class portfolioscreens extends Component {
 
@@ -11,6 +12,7 @@ class portfolioscreens extends Component {
       <div>
         <Header></Header>
         <BodyPortfolio></BodyPortfolio>
+    
       </div>
     );
   }

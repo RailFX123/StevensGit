@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './ContactScreen.css';
 import Header from '../../components/Header/Header/Header';
 import BodyContact from '../../components/bodycontact/bodycontact';
+import Footer from '../../components/footer/footer';
 
 class ContactScreen extends Component {
   // constructor(props){
@@ -23,6 +24,7 @@ class ContactScreen extends Component {
       <div>
          <Header></Header>
          <BodyContact></BodyContact>
+         <Footer></Footer>
       </div>
     );
   }
